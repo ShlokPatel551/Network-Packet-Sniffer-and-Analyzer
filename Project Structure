@@ -1,0 +1,5 @@
+packet_sniffer/
+│
+├── sniffer.py         # Main sniffer script
+├── parser.py          # Protocol parser (optional modularization)
+└── README.md
